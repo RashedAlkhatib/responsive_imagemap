@@ -1,4 +1,3 @@
-
     class ResponsiveImageMap {
         constructor(map, img, width) {
             this.img = img;
@@ -30,4 +29,3 @@
             return true;
         };
     }
-
