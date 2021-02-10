@@ -1,1 +1,1 @@
-# responsive_imagemap
+# responsive Image Map
