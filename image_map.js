@@ -1,4 +1,4 @@
-window.onload = function () {
+
     class ResponsiveImageMap {
         constructor(map, img, width) {
             this.img = img;
@@ -31,5 +31,3 @@ window.onload = function () {
         };
     }
 
-        return;
-}
