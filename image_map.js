@@ -31,6 +31,5 @@ window.onload = function () {
         };
     }
 
-    new ResponsiveImageMap($('#map_ID'), $('#img_ID')[0], $('#img_ID')[0].naturalWidth);
         return;
 }
