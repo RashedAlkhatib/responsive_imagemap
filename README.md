@@ -4,14 +4,14 @@
 
 
 ## how to use ? (step 1)
-just include the image_map.js in your web page 
+just include the image_map.js in your web page <br>
 <b>example :<b>
 ```
 <script type="text/javascript" src="YOUR_WEBSITE_PATH/image_map.js"></script>
 ```
 
 ## (step 2)
-after including <b>image_map.js</b> 
+after including <b>image_map.js</b> <br>
 place this inside <b>your OWN js file</b> 
 ```
 window.onload = function () {
@@ -25,5 +25,5 @@ new ResponsiveImageMap(map, image, image.naturalWidth);
 
 ## Dependencies 
 
-1- <b>jquery</b> 
+1- <b>jquery</b> <br>
 2- make sure to <b>include image_map.js before your own js file</b>
